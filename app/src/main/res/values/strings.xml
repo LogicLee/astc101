@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ASTC Tip Calculator</string>
+    <string name="action_about">About ASTC</string>
+	<string name="debug_message_tag">MyLogMessage</string>
+	<string name="bill_amount">Bill Amount:</string>
+	<string name="service_quality">Service Quality:</string>
+	<string name="tip">Tip:</string>
+	<string name="tip_percentage">[ ]</string>
+	<string name="bill_total">Bill Total:</string>
+	<string name="action_exit">Exit</string>
+	<string name="logoDescription">LogicLee logo</string>
+	<string name="app_author">Nigel C. Lee</string>	
+</resources> 
